@@ -2392,11 +2392,9 @@
 迥	zk
 蕨	cr
 觖	dg
-觖	dn
 崛	ei
 抉	fg
 掘	fi
-抉	fn
 撅	fr
 攫	fy
 燋	hh
@@ -2414,9 +2412,8 @@
 玃	qy
 傕	rf
 倔	ri
-砄	un
+砄	ug
 孓	vn
-玦	wn
 珏	wy
 诀	yg
 谲	yk
@@ -2607,16 +2604,13 @@
 浍	ds
 㧟	fk
 哙	ks
-𫘝	mn
+𫘝	mg
 脍	os
 狯	qs
 侩	rs
 块	tg
-块	tn
 筷	vg
-筷	vn
 快	xg
-快	xn
 况	de
 夼	di
 洭	dw
@@ -3451,7 +3445,6 @@
 妹	nw
 昧	ow
 袂	pg
-袂	pn
 鹛	vn
 眉	vo
 瑂	wo
@@ -4129,9 +4122,7 @@
 琼	wx
 鹊	cn
 缺	fg
-缺	fn
 炔	hg
-炔	hn
 榷	mf
 棤	mo
 阙	mr
@@ -7335,7 +7326,6 @@
 骥	mb
 𬳶	mk
 驹	mk
-𫘝	mg
 骡	mx
 骊	ml
 𬴊	ml
@@ -7721,7 +7711,6 @@
 硖	uj
 礁	uh
 硁	ug
-砄	ug
 𬒔	uo
 𬒗	ue
 砾	ul
