@@ -1141,6 +1141,7 @@
 割	bd
 疙	bq
 葛	cv
+哥	ak
 哥	dk
 滆	dl
 隔	el
@@ -6949,6 +6950,7 @@
 心	dd
 农	dn
 顶	dr
+歌	ar
 歌	dr
 顽	er
 独	qi
