@@ -1,0 +1,39 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Wed Feb  5 22:17:52 2020"
+  rime_version: 1.5.3
+patch:
+  "ascii_composer/good_old_caps_lock": true
+  "ascii_composer/switch_key":
+    Caps_Lock: noop
+    Control_L: noop
+    Control_R: noop
+    Shift_L: commit_code
+    Shift_R: commit_code
+  "key_binder/bindings":
+    - {accept: semicolon, send: 2, when: has_menu}
+    - {accept: apostrophe, send: 3, when: has_menu}
+    - {accept: "Control+bracketleft", send: Escape, when: composing}
+    - {accept: ISO_Left_Tab, send: Page_Up, when: composing}
+    - {accept: "Shift+Tab", send: Page_Up, when: composing}
+    - {accept: Tab, send: Page_Down, when: composing}
+    - {accept: minus, send: Page_Up, when: has_menu}
+    - {accept: equal, send: Page_Down, when: has_menu}
+    - {accept: "Shift+space", toggle: full_shape, when: always}
+    - {accept: "Control+period", toggle: ascii_punct, when: always}
+  "menu/page_size": 5
+  punctuator:
+    full_shape:
+      __include: my_punctuation:/full_shape
+    half_shape:
+      __include: my_punctuation:/half_shape
+  schema_list:
+    - {schema: flypyplus}
+    - {schema: flypy}
+  "switcher/fix_schema_list_order": true
+  "switcher/fold_options": false
+  "switcher/hotkeys":
+    #- "Control+F4"
+    - Control+grave
