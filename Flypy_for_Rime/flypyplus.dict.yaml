@@ -1,0 +1,25 @@
+# encoding: utf-8
+#
+# 小鹤双拼
+# 提取自小鹤音形 9.9c_20200118 build 378（飞扬版）
+---
+name: "flypyplus"
+version: "10.1"
+sort: by_weight
+max_phrase_length: 7
+columns:
+  - text
+  - code
+  - weight
+encoder:
+  rules:
+    - length_equal: 2
+      formula: "AaAzBaBb"
+    - length_equal: 3
+      formula: "AaBaCaCb"
+    - length_in_range: [4, 10]
+      formula: "AaBaCaZz"
+import_tables:
+  - flypy
+  - flypy.hidden
+...
