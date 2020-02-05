@@ -8223,7 +8223,7 @@
 惗	xx
 嬲	tl
 呯	kp
-榀	pbm
+榀	mk
 珮	wj
 炁	ah
 螓	ih
@@ -8238,7 +8238,7 @@
 薙	cf
 昰	ov
 嗻	kh
-砦	vdv
+砦	vu
 喎	kk
 揾	fm
 卌	al
